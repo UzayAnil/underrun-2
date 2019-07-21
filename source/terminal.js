@@ -4,7 +4,7 @@ var terminal_text_title = '' +
 'UNDERRUN\n' +
 '__ \n' +
 'CONCEPT, GRAPHICS &AMP; PROGRAMMING:\n' +
-'DOMINIC SZABLEWSKI // PHOBOSLAB.ORG\n' +
+'Alen Hovhannisians // icodeeducation.ga\n' +
 '__ \n' +
 'MUSIC:\n' +
 'ANDREAS LSCH // NO-FATE.NET\n' +
